@@ -4,7 +4,8 @@ Paper em desenvolvimento sobre o perfil dos Bolsolulistas
 
 A base de dados orignal foi obtida no site do ESEB, é a onda de 2018 do banco.
 
-# o arquivo divisoes.R contém o script para criar as divisõs
+# o arquivo divisoes.R contém o script para criar as divisões. 
+o procedimento constará descrito no texto
 
 
 # o arquivo construcao_dos_graficos.R contém o script da confeção dos gráficos e tabelas
